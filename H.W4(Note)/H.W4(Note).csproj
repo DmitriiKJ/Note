@@ -95,5 +95,61 @@
   <ItemGroup>
     <None Include="Resources\right26.png" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ImageList\About.ico" />
+    <Content Include="ImageList\Close.ico" />
+    <Content Include="ImageList\Copy to folder.ico" />
+    <Content Include="ImageList\Copy.ico" />
+    <Content Include="ImageList\Create Folder.ico" />
+    <Content Include="ImageList\Cut.ico" />
+    <Content Include="ImageList\Delete.ico" />
+    <Content Include="ImageList\Down-blue.ico" />
+    <Content Include="ImageList\Down.ico" />
+    <Content Include="ImageList\Exit.ico" />
+    <Content Include="ImageList\Export.ico" />
+    <Content Include="ImageList\Find next.ico" />
+    <Content Include="ImageList\Find.ico" />
+    <Content Include="ImageList\Folder.ico" />
+    <Content Include="ImageList\Help 2.ico" />
+    <Content Include="ImageList\Help.ico" />
+    <Content Include="ImageList\Image 2.ico" />
+    <Content Include="ImageList\Image properties.ico" />
+    <Content Include="ImageList\Image.ico" />
+    <Content Include="ImageList\Import.ico" />
+    <Content Include="ImageList\Language.ico" />
+    <Content Include="ImageList\Left-blue.ico" />
+    <Content Include="ImageList\Left.ico" />
+    <Content Include="ImageList\Lock.ico" />
+    <Content Include="ImageList\Move to folder.ico" />
+    <Content Include="ImageList\New.ico" />
+    <Content Include="ImageList\Ok.ico" />
+    <Content Include="ImageList\Open Image.ico" />
+    <Content Include="ImageList\Open.ico" />
+    <Content Include="ImageList\Options.ico" />
+    <Content Include="ImageList\Page setup.ico" />
+    <Content Include="ImageList\Paste.ico" />
+    <Content Include="ImageList\Print preview.ico" />
+    <Content Include="ImageList\Print.ico" />
+    <Content Include="ImageList\Redo.ico" />
+    <Content Include="ImageList\Refresh.ico" />
+    <Content Include="ImageList\Replace.ico" />
+    <Content Include="ImageList\Right-blue.ico" />
+    <Content Include="ImageList\Right.ico" />
+    <Content Include="ImageList\Run.ico" />
+    <Content Include="ImageList\Save as.ico" />
+    <Content Include="ImageList\Save.ico" />
+    <Content Include="ImageList\Send by email.ico" />
+    <Content Include="ImageList\Show images.ico" />
+    <Content Include="ImageList\Stop.ico" />
+    <Content Include="ImageList\Support.ico" />
+    <Content Include="ImageList\Tip of the day.ico" />
+    <Content Include="ImageList\Undo.ico" />
+    <Content Include="ImageList\Unlock.ico" />
+    <Content Include="ImageList\Up-blue.ico" />
+    <Content Include="ImageList\Up.ico" />
+    <Content Include="ImageList\Visit home page.ico" />
+    <Content Include="ImageList\Wizard.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
